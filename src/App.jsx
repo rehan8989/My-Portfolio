@@ -6,5 +6,4 @@ function App() {
   return <Portfolio/>;
 }
 
-export default App
-npx tailwindcss init -p
+export default App;
